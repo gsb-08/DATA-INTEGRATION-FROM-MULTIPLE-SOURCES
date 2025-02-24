@@ -63,3 +63,4 @@ Customize for Your Needs:
 Modify visuals, datasets, or measures to adapt the report to your specific business needs.
 
 output:
+![Image](https://github.com/user-attachments/assets/f740ab65-290e-4228-92a3-faddcd869554)
